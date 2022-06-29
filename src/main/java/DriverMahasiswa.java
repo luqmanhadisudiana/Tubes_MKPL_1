@@ -18,7 +18,7 @@ public class DriverMahasiswa {
         System.out.println("Nama : Luqman Hadi Sudiana ");
         System.out.println("NIM : 1302190016 ");
         System.out.println("Kelas : SE4301 ");
-        System.out.println("TP2_MOD3_PBO");
+        System.out.printn("TP2_MOD3_PBO");
         System.out.println();
         System.out.println();
         System.out.println();
