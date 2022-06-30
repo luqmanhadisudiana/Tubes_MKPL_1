@@ -77,7 +77,7 @@ public class mahasiswa {
         //        Untuk mengoutput hasil dari getNim
         System.out.print(" "+getNama()+" || ");
         //        Untuk mengoutput hasil dari getNama
-        System.out.print("Angkatan : "+getAngkatan());
+        System.out.print("Angkatan : "+getNama());
         //        Untuk mengoutput hasil dari getAngkatan
     }
 }
